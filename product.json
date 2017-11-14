@@ -1,0 +1,289 @@
+{
+  "nodes": [
+    {
+      "name": "Plexus Worldwide",
+      "id": "company_Plexus_worldwide"
+    },
+    {
+      "name": "Florida Blue",
+      "id": "company_florida_blue"
+    },
+    {
+      "name": "Glynlyon",
+      "id": "company_glynlyon"
+    },
+    {
+      "name": "Discover Financial Services",
+      "id": "company_discover_financial_services"
+    },
+    {
+      "name": "Silicon Publishing",
+      "id": "company_silicon_publishing"
+    },
+    {
+      "name": "Infranet",
+      "id": "company_infranet"
+    },
+    {
+      "name": "Raytheon",
+      "id": "company_raytheon"
+    },
+    {
+      "name": "Schlumberger",
+      "id": "company_schlumberger"
+    },
+    {
+      "name": "Rice University",
+      "id": "company_rice_university"
+    },
+    {
+      "name": "Developer",
+      "id": "role_developer"
+    },
+    {
+      "name": "UX Design",
+      "id": "role_ux_design"
+    },
+    {
+      "name": "DevOps",
+      "id": "role_devops"
+    },
+    {
+      "name": "Systems Administrator",
+      "id": "role_systems_administrator"
+    },
+    {
+      "name": "Database Administrator",
+      "id": "role_database_administrator"
+    },
+    {
+      "name": "Team Lead",
+      "id": "role_team_leadr"
+    },
+    {
+      "name": "Architect",
+      "id": "role_architect"
+    },
+    {
+      "name": "Manager",
+      "id": "role_manager"
+    }
+  ],
+  "links": [
+    {
+      "source": 8,
+      "value": 0.166666666666667,
+      "target": 9
+    },
+    {
+      "source": 8,
+      "value": 0.166666666666667,
+      "target": 10
+    },
+    {
+      "source": 8,
+      "value": 0.166666666666667,
+      "target": 12
+    },
+    {
+      "source": 8,
+      "value": 0.166666666666667,
+      "target": 13
+    },
+    {
+      "source": 8,
+      "value": 0.166666666666667,
+      "target": 15
+    },
+    {
+      "source": 8,
+      "value": 0.166666666666667,
+      "target": 16
+    },
+    {
+      "source": 7,
+      "value": 0.333333333333333,
+      "target": 9
+    },
+    {
+      "source": 7,
+      "value": 0.333333333333333,
+      "target": 10
+    },
+    {
+      "source": 7,
+      "value": 0.333333333333333,
+      "target": 12
+    },
+    {
+      "source": 7,
+      "value": 0.333333333333333,
+      "target": 14
+    },
+    {
+      "source": 6,
+      "value": 0.200000000000000,
+      "target": 9
+    },
+    {
+      "source": 6,
+      "value": 0.200000000000000,
+      "target": 10
+    },
+    {
+      "source": 6,
+      "value": 0.200000000000000,
+      "target": 12
+    },
+    {
+      "source": 6,
+      "value": 0.200000000000000,
+      "target": 13
+    },
+    {
+      "source": 6,
+      "value": 0.200000000000000,
+      "target": 14
+    },
+    {
+      "source": 5,
+      "value": 0.333333333333333,
+      "target": 9
+    },
+    {
+      "source": 5,
+      "value": 0.333333333333333,
+      "target": 10
+    },
+    {
+      "source": 5,
+      "value": 0.333333333333333,
+      "target": 15
+    },
+    {
+      "source": 4,
+      "value": 0.333333333333333,
+      "target": 9
+    },
+    {
+      "source": 4,
+      "value": 0.333333333333333,
+      "target": 10
+    },
+    {
+      "source": 4,
+      "value": 0.333333333333333,
+      "target": 15
+    },
+    {
+      "source": 3,
+      "value": 0.166666666666667,
+      "target": 9
+    },
+    {
+      "source": 3,
+      "value": 0.166666666666667,
+      "target": 10
+    },
+    {
+      "source": 3,
+      "value": 0.166666666666667,
+      "target": 11
+    },
+    {
+      "source": 3,
+      "value": 0.166666666666667,
+      "target": 14
+    },
+    {
+      "source": 3,
+      "value": 0.166666666666667,
+      "target": 15
+    },
+    {
+      "source": 3,
+      "value": 0.166666666666667,
+      "target": 16
+    },
+    {
+      "source": 2,
+      "value": 0.166666666666667,
+      "target": 9
+    },
+    {
+      "source": 2,
+      "value": 0.166666666666667,
+      "target": 10
+    },
+    {
+      "source": 2,
+      "value": 0.166666666666667,
+      "target": 11
+    },
+    {
+      "source": 2,
+      "value": 0.166666666666667,
+      "target": 13
+    },
+    {
+      "source": 2,
+      "value": 0.166666666666667,
+      "target": 14
+    },
+    {
+      "source": 2,
+      "value": 0.166666666666667,
+      "target": 15
+    },
+    {
+      "source": 1,
+      "value": 0.125000000000000,
+      "target": 9
+    },
+    {
+      "source": 1,
+      "value": 0.125000000000000,
+      "target": 10
+    },
+    {
+      "source": 1,
+      "value": 0.125000000000000,
+      "target": 11
+    },
+    {
+      "source": 1,
+      "value": 0.125000000000000,
+      "target": 12
+    },
+    {
+      "source": 1,
+      "value": 0.125000000000000,
+      "target": 13
+    },
+    {
+      "source": 1,
+      "value": 0.125000000000000,
+      "target": 14
+    },
+    {
+      "source": 1,
+      "value": 0.125000000000000,
+      "target": 15
+    },
+    {
+      "source": 1,
+      "value": 0.125000000000000,
+      "target": 16
+    },
+    {
+      "source": 0,
+      "value": 0.500000000000000,
+      "target": 9
+    },
+    {
+      "source": 0,
+      "value": 0.500000000000000,
+      "target": 15
+    }
+  ]
+}

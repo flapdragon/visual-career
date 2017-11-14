@@ -1,0 +1,23 @@
+{
+  "name": "visual-career",
+  "version": "1.0.0",
+  "description": "Visualizations of my career.",
+  "main": "d3.chart.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flapdragon/visual-career.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flapdragon/visual-career/issues"
+  },
+  "homepage": "https://github.com/flapdragon/visual-career#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
